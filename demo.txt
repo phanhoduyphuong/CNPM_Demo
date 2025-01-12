@@ -2,7 +2,9 @@ class Demo{
  int n;
  for(int i=0;i<n;i++){ 
 
-}
-
- 
+ }
+	
+ while(true){
+	cout<<"hello";
+	}
 }
